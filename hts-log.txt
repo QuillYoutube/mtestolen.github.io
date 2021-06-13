@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Jun 2021 19:54:06 at https://mteyt.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://mteyt.com/ -O1 "C:\My Web Sites\mte" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:54:15	Error: 	"Bad Request" (400) at link https://media.discordapp.net/attachments/825807891746652210/842907212455084062/rbx.png?width=274&height=274o (from https://mteyt.com/)
+19:54:31	Error: 	"Not Found" (404) at link https://mteyt.com/img/roblox.ico (from https://mteyt.com/verify.html)
+19:54:32	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/bzXzGMbdQfY)
+19:54:32	Error: 	"Not Found" (404) at link https://mteyt.com/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 (from https://mteyt.com/fonts/iconic/css/material-design-iconic-font.min.css)
+19:54:32	Error: 	"Not Found" (404) at link https://mteyt.com/fonts/iconic/fonts/Material-Design-Iconic-Font.woff?v=2.2.0 (from https://mteyt.com/fonts/iconic/css/material-design-iconic-font.min.css)
+19:54:32	Error: 	"Not Found" (404) at link https://mteyt.com/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf?v=2.2.0 (from https://mteyt.com/fonts/iconic/css/material-design-iconic-font.min.css)
+19:54:32	Error: 	"Not Found" (404) at link https://www.youtube.com/imgbin/www-hitchhiker.png (from https://www.youtube.com/s/player/a7cbbf24/www-player.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 72 links scanned, 62 files written (6606679 bytes overall) [4559426 bytes received at 175362 bytes/sec], 3415776 bytes transferred using HTTP compression in 46 files, ratio 36%, 4.8 requests per connection
+(7 errors, 0 warnings, 0 messages)
